@@ -1,0 +1,14 @@
+C:\Users\lazof\Desktop\Uni\4.POO\UNIDAD I\TAREAS\Ejercicio4_Hugo_Nuñez\Ejercicio4_Hugo_Nuñez\bin\Debug\net10.0\Ejercicio4_Hugo_Nuñez.exe
+C:\Users\lazof\Desktop\Uni\4.POO\UNIDAD I\TAREAS\Ejercicio4_Hugo_Nuñez\Ejercicio4_Hugo_Nuñez\bin\Debug\net10.0\Ejercicio4_Hugo_Nuñez.deps.json
+C:\Users\lazof\Desktop\Uni\4.POO\UNIDAD I\TAREAS\Ejercicio4_Hugo_Nuñez\Ejercicio4_Hugo_Nuñez\bin\Debug\net10.0\Ejercicio4_Hugo_Nuñez.runtimeconfig.json
+C:\Users\lazof\Desktop\Uni\4.POO\UNIDAD I\TAREAS\Ejercicio4_Hugo_Nuñez\Ejercicio4_Hugo_Nuñez\bin\Debug\net10.0\Ejercicio4_Hugo_Nuñez.dll
+C:\Users\lazof\Desktop\Uni\4.POO\UNIDAD I\TAREAS\Ejercicio4_Hugo_Nuñez\Ejercicio4_Hugo_Nuñez\bin\Debug\net10.0\Ejercicio4_Hugo_Nuñez.pdb
+C:\Users\lazof\Desktop\Uni\4.POO\UNIDAD I\TAREAS\Ejercicio4_Hugo_Nuñez\Ejercicio4_Hugo_Nuñez\obj\Debug\net10.0\Ejercicio4_Hugo_Nuñez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lazof\Desktop\Uni\4.POO\UNIDAD I\TAREAS\Ejercicio4_Hugo_Nuñez\Ejercicio4_Hugo_Nuñez\obj\Debug\net10.0\Ejercicio4_Hugo_Nuñez.AssemblyInfoInputs.cache
+C:\Users\lazof\Desktop\Uni\4.POO\UNIDAD I\TAREAS\Ejercicio4_Hugo_Nuñez\Ejercicio4_Hugo_Nuñez\obj\Debug\net10.0\Ejercicio4_Hugo_Nuñez.AssemblyInfo.cs
+C:\Users\lazof\Desktop\Uni\4.POO\UNIDAD I\TAREAS\Ejercicio4_Hugo_Nuñez\Ejercicio4_Hugo_Nuñez\obj\Debug\net10.0\Ejercicio4_Hugo_Nuñez.csproj.CoreCompileInputs.cache
+C:\Users\lazof\Desktop\Uni\4.POO\UNIDAD I\TAREAS\Ejercicio4_Hugo_Nuñez\Ejercicio4_Hugo_Nuñez\obj\Debug\net10.0\Ejercicio4_Hugo_Nuñez.dll
+C:\Users\lazof\Desktop\Uni\4.POO\UNIDAD I\TAREAS\Ejercicio4_Hugo_Nuñez\Ejercicio4_Hugo_Nuñez\obj\Debug\net10.0\refint\Ejercicio4_Hugo_Nuñez.dll
+C:\Users\lazof\Desktop\Uni\4.POO\UNIDAD I\TAREAS\Ejercicio4_Hugo_Nuñez\Ejercicio4_Hugo_Nuñez\obj\Debug\net10.0\Ejercicio4_Hugo_Nuñez.pdb
+C:\Users\lazof\Desktop\Uni\4.POO\UNIDAD I\TAREAS\Ejercicio4_Hugo_Nuñez\Ejercicio4_Hugo_Nuñez\obj\Debug\net10.0\Ejercicio4_Hugo_Nuñez.genruntimeconfig.cache
+C:\Users\lazof\Desktop\Uni\4.POO\UNIDAD I\TAREAS\Ejercicio4_Hugo_Nuñez\Ejercicio4_Hugo_Nuñez\obj\Debug\net10.0\ref\Ejercicio4_Hugo_Nuñez.dll
